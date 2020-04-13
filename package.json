@@ -1,6 +1,6 @@
 {
   "name": "react-toast-notifier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple and easy to use toast notification module for react.",
   "main": "./lib/Bundle.js",
   "scripts": {
